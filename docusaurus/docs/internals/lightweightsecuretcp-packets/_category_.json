@@ -1,0 +1,8 @@
+{
+  "label": "LightweightSecureTCP Packets",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "All packet types used in LightweightSecureTCP protocol."
+  }
+}

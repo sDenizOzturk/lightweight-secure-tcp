@@ -1,0 +1,8 @@
+{
+  "label": "Basic Usage",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Simple usage examples to help you configure and run LightweightSecureTCP — including key setup, server, and client."
+  }
+}
